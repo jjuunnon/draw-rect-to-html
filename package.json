@@ -1,0 +1,15 @@
+{
+  "name": "draw-rect-to-html",
+  "version": "0.1.0",
+  "description": "Draw rect to specified element. For taking a screenshot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jjuunnon <jjuunnon0712@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jjuunnon/draw-rect-to-html.git"
+  },
+  "license": "MIT"
+}
